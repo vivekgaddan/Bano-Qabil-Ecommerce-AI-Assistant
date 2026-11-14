@@ -1,0 +1,59 @@
+DOCUMENT: Official Product Catalog & Pricing Sheet
+COMPANY: Bano Qabil Ecommerce (BQE)
+STATUS: CURRENT | VERSION: v2.4 | EFFECTIVE DATE: 2026-10-01
+
+All prices listed below are in Pakistani Rupees (PKR) and include applicable GST.
+
+1. BQE AeroBook Pro 14 Laptop (SKU: BQE-LP-101)
+- Price: PKR 145,000
+- Specifications: Intel Core i5 13th Gen, 16GB DDR5 RAM, 512GB NVMe SSD, 14-inch Full HD IPS Anti-Glare Display, Backlit Keyboard, 1.38 kg weight.
+- Warranty: 1-Year Official Brand & BQE Service Warranty.
+- Stock Status: In Stock (Karachi & Lahore Hubs).
+
+2. BQE MechMaster K87 Wireless Mechanical Keyboard (SKU: BQE-KB-204)
+- Price: PKR 8,500
+- Specifications: 87-key Tenkeyless layout, Hot-swappable Tactile Brown Switches, RGB Backlighting, Tri-mode connectivity (Bluetooth 5.1, 2.4GHz Wireless, USB-C Wired), 4000mAh battery.
+- Warranty: 6-Month Replacement Warranty.
+- Stock Status: In Stock.
+
+3. BQE SonicPulse ANC Over-Ear Headphones (SKU: BQE-AU-309)
+- Price: PKR 12,900
+- Specifications: Hybrid Active Noise Cancellation (-42dB), 40mm Dynamic Drivers, 45-hour playback time, Multipoint Bluetooth 5.3, Built-in ENC dual microphones.
+- Warranty: 1-Year Replacement Warranty.
+- Stock Status: In Stock.
+
+4. BQE VoltMax 20,000mAh 65W PD Power Bank (SKU: BQE-PW-412)
+- Price: PKR 6,800
+- Specifications: 20,000mAh Lithium-Polymer capacity, 65W USB-C Power Delivery (capable of charging laptops), Dual USB-C + Single USB-A ports, Digital LED battery percentage display.
+- Warranty: 6-Month Warranty.
+- Stock Status: In Stock.
+
+5. BQE ClearView 27-Inch 2K QHD IPS Monitor (SKU: BQE-MN-515)
+- Price: PKR 54,000
+- Specifications: 2560x1440 QHD resolution, 100Hz refresh rate, 99% sRGB color gamut, HDMI 2.0, DisplayPort 1.4, Height & Tilt adjustable ergonomic stand.
+- Warranty: 1-Year Official Warranty (covers dead pixels if count exceeds 3 pixels).
+- Stock Status: In Stock (Karachi Hub only; 2-day transfer for Lahore).
+
+6. BQE SmartHome Wi-Fi Plug Mini - Pack of 2 (SKU: BQE-SH-618)
+- Price: PKR 3,200
+- Specifications: 16A Heavy-Duty Load Support (suitable for geysers/ACs up to 1.5 Ton), Real-time energy consumption monitoring, Works with Google Home, Alexa, and BQE Smart App.
+- Warranty: 6-Month Replacement Warranty.
+- Stock Status: In Stock.
+
+7. BQE GlidePro Ergonomic Vertical Wireless Mouse (SKU: BQE-MS-721)
+- Price: PKR 4,200
+- Specifications: 57-degree vertical wrist-relief angle, Adjustable DPI (800/1200/1600/2400), Silent click switches, Rechargeable 600mAh battery via USB-C.
+- Warranty: 6-Month Replacement Warranty.
+- Stock Status: In Stock.
+
+8. BQE AquaPure Smart UV Insulated Flask 750ml (SKU: BQE-LF-825)
+- Price: PKR 3,950
+- Specifications: 316 Surgical-Grade Stainless Steel, Built-in UVC LED cap sterilizer (kills 99.9% bacteria in 3 minutes), Touch LED temperature display, Keeps drinks cold 24h / hot 12h.
+- Warranty: 6-Month Cap Electronics Warranty.
+- Stock Status: Low Stock (18 units remaining).
+
+9. BQE StreamCam 4K Auto-Focus Webcam (SKU: BQE-CM-930)
+- Price: PKR 11,500
+- Specifications: Sony 8MP CMOS Sensor, True 4K at 30fps / 1080p at 60fps, Dual noise-canceling stereo mics, Built-in magnetic privacy shutter, Universal tripod clip.
+- Warranty: 1-Year Replacement Warranty.
+- Stock Status: In Stock.

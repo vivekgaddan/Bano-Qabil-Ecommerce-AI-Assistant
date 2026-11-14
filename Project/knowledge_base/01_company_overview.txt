@@ -1,0 +1,28 @@
+DOCUMENT: Company Overview & Store Operations
+COMPANY: Bano Qabil Ecommerce (BQE)
+STATUS: CURRENT | VERSION: v1.0 | EFFECTIVE DATE: 2026-01-15
+
+1. ABOUT BANO QABIL ECOMMERCE
+Bano Qabil Ecommerce (BQE) is a premier Pakistani online retail marketplace specializing in consumer electronics, smart home accessories, computer peripherals, and daily lifestyle gadgets. Founded to deliver authentic tech products with transparent pricing across Pakistan, BQE serves retail shoppers, corporate bulk buyers, and student developers.
+
+2. CORE SERVICES
+- Nationwide Express & Standard Doorstep Delivery across 120+ cities in Pakistan.
+- Cash on Delivery (COD), JazzCash, Easypaisa, Raast Instant Transfer, and Visa/Mastercard online checkout.
+- 7-Day Hassle-Free Replacement Warranty on manufacturing defects.
+- Dedicated B2B Corporate Procurement Desk for bulk laptop, monitor, and accessory orders.
+- Live Order Tracking via SMS, WhatsApp, and the BQE Web Portal.
+
+3. PHYSICAL LOCATIONS & FULFILLMENT HUBS
+- Flagship Experience Center & Main Warehouse: Plot 42-C, Shahrah-e-Faisal, Block 6 PECHS, Karachi, Sindh.
+- Northern Fulfillment Hub: Suite 14, Main Boulevard, Gulberg III, Lahore, Punjab.
+- Capital Dispatch Point: Sector G-8 Markaz, Islamabad.
+
+4. CUSTOMER SUPPORT & OPERATING HOURS
+- Online Storefront: Open 24/7, 365 days a year at www.banoqabilecommerce.pk.
+- Customer Support Helpline & Live Chat: Monday to Saturday, 9:00 AM to 9:00 PM PKT (Closed on Sundays and gazetted public holidays).
+- Flagship Walk-in Pickup Counter (Karachi): Monday to Saturday, 10:30 AM to 8:00 PM PKT.
+- Support Phone / WhatsApp: +92-21-34567890 | Official Email: support@banoqabilecommerce.pk.
+- Corporate Sales Email: b2b@banoqabilecommerce.pk.
+
+5. INTENDED ASSISTANT USERS
+This internal and customer-facing Company Knowledge Assistant is built for BQE Customer Support Agents, Warehouse Dispatch Coordinators, and Online Shoppers to verify live product specs, delivery timelines, return rules, and policy comparisons without risking outdated information.

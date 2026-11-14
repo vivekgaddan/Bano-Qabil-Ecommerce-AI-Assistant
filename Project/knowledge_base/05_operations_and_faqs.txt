@@ -1,0 +1,31 @@
+DOCUMENT: Warehouse Operations, Order Procedures & Customer FAQs
+COMPANY: Bano Qabil Ecommerce (BQE)
+STATUS: CURRENT | VERSION: v1.3 | EFFECTIVE DATE: 2026-09-15
+
+1. ORDER CUT-OFF TIMES & DISPATCH PROCEDURES
+- Daily Dispatch Cut-Off: Orders confirmed before 4:00 PM PKT (Monday to Saturday) are dispatched the same evening via TCS, Leopards Courier, or BQE Rider Fleet.
+- Orders placed after 4:00 PM PKT or on Sundays are dispatched on the next working day.
+- Estimated Delivery Times:
+  * Karachi local orders: 1 to 2 working days.
+  * Major cities (Lahore, Islamabad, Rawalpindi, Faisalabad, Multan): 2 to 3 working days.
+  * Remote areas & Gilgit-Baltistan: 4 to 6 working days.
+
+2. ORDER CANCELLATION & ADDRESS MODIFICATION
+- Customers can cancel or modify delivery addresses free of charge before the order status changes to "Dispatched" (prior to the 4:00 PM PKT cut-off).
+- Once dispatched, address changes incur a courier rerouting fee of PKR 200.
+
+3. FREQUENTLY ASKED QUESTIONS (FAQs)
+Q1: How do I claim a warranty replacement on a BQE product?
+A: Email support@banoqabilecommerce.pk or message our WhatsApp support (+92-21-34567890) with your Order ID, invoice copy, and a 30-second video demonstrating the defect. Our team arranges a free reverse pickup within 48 hours.
+
+Q2: Can I pick up my online order directly from the Karachi warehouse to save shipping charges?
+A: Yes! Select "Self-Pickup (Karachi PECHS Hub)" at checkout. You will receive an SMS when your parcel is ready (usually within 2 hours during operating hours: Mon-Sat, 10:30 AM to 8:00 PM). Self-pickup is completely free.
+
+Q3: Do you offer corporate discounts for bulk purchases?
+A: Yes. Orders of 5 or more units of the same SKU (such as the BQE AeroBook Pro 14 Laptop or BQE ClearView 27-Inch Monitor) qualify for a 7% corporate bulk discount when ordered through b2b@banoqabilecommerce.pk.
+
+Q4: What happens if my parcel arrives physically damaged?
+A: Please record an unboxing video and report any physical transit damage within 24 hours of delivery. BQE will dispatch a brand-new replacement unit immediately at zero cost.
+
+Q5: Does BQE offer installment plans or Buy Now Pay Later (BNPL)?
+A: Currently, BQE supports 3-month and 6-month 0% markup installment plans exclusively for Meezan Bank and HBL Credit Card holders on orders above PKR 25,000.
